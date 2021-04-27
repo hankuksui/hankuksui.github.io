@@ -1,0 +1,1 @@
+var fs=[".com",".cn",".net",".cc",".com.cn",".org",".vip",".xin",".top",".club",".xyz",".wang",".win"];function getRanEmail(){var n=getRandom(30,1),e=genEnCode(n,!0,!0,!1,!0,!1,!0),n=getRandom(20,1),n=e+"@"+genEnCode(n,!0,!0,!1,!0,!1,!0)+fs[getRandom(fs.length)];document.getElementById("email").value=n}

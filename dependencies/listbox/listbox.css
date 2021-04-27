@@ -1,0 +1,1 @@
+.list{border:1px solid gray;min-width:50px;padding:5px;margin:5px}.list .option{height:25px;cursor:default;white-space:nowrap;text-overflow:ellipsis;overflow:hidden}.list .option:hover{background-color:#b0d8ff}.list .option.selected{background-color:#1e90ff;color:#fff}
